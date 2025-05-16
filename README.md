@@ -56,6 +56,6 @@
 
 Учебный проект был реализован давно, без использования Clean Architecture, MVVM, Hilt. Применение Clean Architecture, MVVM, Hilt есть в проктах Recipe Book, T-Travelling
 
-###Скринкаст
+### Скринкаст
 Скринкаст: https://disk.yandex.ru/i/FgbRa47A0qY85A
 
